@@ -11,9 +11,9 @@
 </h1>
 
 <h1 align="center">
-    <img alt="image" title="image" src=".github/responsive-table-desktop.png" width="100%" />
+    <img alt="image" title="image" src=".github/responsive-table-desktop.png" width="200%" />
 </h1>
 
 <h1 align="center">
-    <img alt="image" title="image" src=".github/responsive-table-mobile.png" width="100%" />
+    <img alt="image" title="image" src=".github/responsive-table-mobile.png" width="50%" />
 </h1>
